@@ -79,7 +79,7 @@ img{
     text-decoration:underline;
     color: black;
 }
-@media(max-width:376px)
+@media(max-width:564px)
 {
     header
 {
